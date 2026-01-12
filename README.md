@@ -1,16 +1,18 @@
-## Hi there 👋
+⚡ Tamara Treller — Software Developer | Backend Engineer | Systems Architect
+I build secure, modular, audit‑ready systems with a focus on fintech, simulation, and real‑world business logic. My work blends Python, Flask, PHP, SQL, and advanced OOP to create backend architectures that are transparent, scalable, and production‑grade.
 
-<!--
-**tamaratreller96/tamaratreller96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 Backend-first mindset: I design systems that prioritize data integrity, constraints, and traceability.
 
-Here are some ideas to get you started:
+🛠️ Hands-on problem solver: I move fast, debug deeply, and architect clean, maintainable modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ SQL specialist: Schema design, referential integrity, constraints, triggers, and realistic datasets.
+
+🔐 Security-aware: Currently completing the Google Cybersecurity Professional Certificate.
+
+🧠 Systems thinker: I care about concurrency, replication, logging, and real-world auditability.
+
+🎯 Mission-driven: I build software that empowers users and makes complex systems understandable.
+
+Currently completing my Software Development Diploma at ABM College (Feb 2026) and actively building portfolio projects that reflect real production environments — not toy examples.
+
+If you're looking for a developer who treats every project like it’s going live tomorrow, let’s talk.
