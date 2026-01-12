@@ -1,5 +1,8 @@
-⚡ Tamara Treller — Software Developer | Backend Engineer | Systems Architect
-I build secure, modular, audit‑ready systems with a focus on fintech, simulation, and real‑world business logic. My work blends Python, Flask, PHP, SQL, and advanced OOP to create backend architectures that are transparent, scalable, and production‑grade.
+⚡ Tamara Treller 
+Software Developer | Backend Engineer | Systems Architect
+
+
+   I build secure, modular, audit‑ready systems with a focus on fintech, simulation, and real‑world business logic. My work blends Python, Flask, PHP, SQL, and advanced OOP to create backend architectures that are transparent, scalable, and production‑grade.
 
 🧩 Backend-first mindset: I design systems that prioritize data integrity, constraints, and traceability.
 
