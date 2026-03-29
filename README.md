@@ -15,7 +15,6 @@ Software Developer | Backend Engineer | Systems Architect
 🧠 Systems thinker: I care about concurrency, replication, logging, and real-world auditability.
 
 🎯 Mission-driven: I build software that empowers users and makes complex systems understandable.
-
-Currently completing my Software Development Diploma at ABM College (Feb 2026) and actively building portfolio projects that reflect real production environments — not toy examples.
+Completed  Software Development Diploma at ABM College (Feb 2026) and actively building portfolio projects that reflect real production environments — not toy examples.
 
 If you're looking for a developer who treats every project like it’s going live tomorrow, let’s talk.
